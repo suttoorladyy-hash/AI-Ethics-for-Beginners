@@ -1,0 +1,207 @@
+/* تنسيقات عامة للموقع */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8fafc;
+    color: #1e293b;
+    margin: 0;
+    padding: 0;
+    line-height: 1.7;
+}
+
+/* الهيدر */
+header {
+    background: linear-gradient(135deg, #1e3a8a, #3b82f6);
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.header-content h1 {
+    margin: 0;
+    font-size: 2.8rem;
+    font-weight: 700;
+}
+
+.header-content p {
+    font-size: 1.2rem;
+    margin-top: 15px;
+    opacity: 0.9;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* الحاوية الرئيسية */
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+/* البطاقات */
+section {
+    background-color: white;
+    padding: 30px;
+    margin-bottom: 25px;
+    border-radius: 15px;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+    transition: 0.3s;
+}
+
+/* حركة عند مرور الماوس */
+section:hover {
+    transform: translateY(-5px);
+}
+
+/* العناوين */
+h2 {
+    color: #2563eb;
+    border-left: 5px solid #2563eb;
+    padding-left: 10px;
+    margin-top: 0;
+}
+
+/* الفقرات */
+section p {
+    color: #475569;
+}
+
+/* القوائم */
+ul {
+    color: #475569;
+    line-height: 2;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+/* الجداول */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+th {
+    background-color: #2563eb;
+    color: white;
+}
+
+th,
+td {
+    border: 1px solid #d1d5db;
+    padding: 12px;
+    text-align: left;
+}
+
+tr:nth-child(even) {
+    background-color: #f1f5f9;
+}
+
+/* التذييل */
+footer {
+    text-align: center;
+    padding: 30px 20px;
+    background-color: #0f172a;
+    color: #94a3b8;
+    margin-top: 60px;
+}
+
+footer strong {
+    color: #3b82f6;
+}
+
+/* تصميم الهاتف */
+@media (max-width: 600px) {
+
+    .header-content h1 {
+        font-size: 2rem;
+    }
+
+    .header-content p {
+        font-size: 1rem;
+    }
+
+    section {
+        padding: 20px;
+    }
+
+}
+.button {
+    display: inline-block;
+    background-color: #2563eb;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    margin-top: 15px;
+    transition: 0.3s;
+}
+
+.button:hover {
+    background-color: #1e40af;
+}
+img {
+    width: 100%;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+a {
+    color: #2563eb;
+}
+
+a:hover {
+    color: #1e40af;
+}
+.dark-mode {
+    background-color: #0f172a;
+    color: white;
+}
+
+.dark-mode section {
+    background-color: #1e293b;
+}
+
+.dark-mode p,
+.dark-mode li,
+.dark-mode td {
+    color: #e2e8f0;
+}
+
+.dark-mode h2 {
+    color: #60a5fa;
+}
+#darkModeBtn {
+
+    background-color: white;
+    color: #2563eb;
+
+    border: none;
+    padding: 12px 20px;
+
+    border-radius: 10px;
+
+    margin-top: 20px;
+
+    cursor: pointer;
+
+    font-weight: bold;
+}
+#topBtn {
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+#topBtn:hover {
+    background-color: #1e40af;
+}
