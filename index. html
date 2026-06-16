@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Ethics for Beginners</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <div class="header-content">
+            <h1>AI Ethics for Beginners</h1>
+
+            <p>
+                Welcome! This website explains artificial intelligence and AI ethics
+                in a simple way for beginners.
+            </p>
+            <button id="darkModeBtn">
+    Dark Mode
+</button>
+        </div>
+    </header>
+
+    <main class="container">
+
+        <section>
+            <h2>What is AI?</h2>
+
+            <p>
+                Artificial Intelligence (AI) is technology that allows computers
+                to learn, solve problems, and assist people.
+            </p>
+        </section>
+
+        <section>
+            <h2>Why AI Ethics Matter?</h2>
+
+            <p>
+                AI ethics helps ensure that artificial intelligence is fair,
+                safe, and beneficial for everyone.
+            </p>
+        </section>
+
+        <section>
+            <h2>Self-Driving Cars</h2>
+
+            <p>
+                Self-driving cars are one of the most exciting AI technologies.
+                However, they also raise important ethical questions about safety
+                and decision-making.
+            </p>
+        </section>
+
+        <section>
+            <h2>The Future</h2>
+
+            <p>
+                I believe AI can improve our lives if it is developed responsibly.
+            </p>
+        </section>
+
+        <section>
+            <h2>Benefits of AI</h2>
+
+            <ul>
+                <li>Helping doctors diagnose diseases.</li>
+                <li>Improving education.</li>
+                <li>Saving time with automation.</li>
+                <li>Supporting scientific research.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>AI Applications</h2>
+
+            <table>
+
+                <tr>
+                    <th>Field</th>
+                    <th>Benefit</th>
+                </tr>
+
+                <tr>
+                    <td>Healthcare</td>
+                    <td>Faster diagnosis</td>
+                </tr>
+
+                <tr>
+                    <td>Education</td>
+                    <td>Personalized learning</td>
+                </tr>
+
+                <tr>
+                    <td>Transportation</td>
+                    <td>Self-driving cars</td>
+                </tr>
+
+            </table>
+        </section>
+
+        <section>
+            <h2>Risks of AI</h2>
+
+            <ul>
+                <li>Bias in AI systems.</li>
+                <li>Privacy concerns.</li>
+                <li>Spread of misinformation.</li>
+                <li>Safety challenges.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Popular AI Tools</h2>
+
+            <table>
+
+                <tr>
+                    <th>Tool</th>
+                    <th>Purpose</th>
+                </tr>
+
+                <tr>
+                    <td>ChatGPT</td>
+                    <td>Answer questions and generate text</td>
+                </tr>
+
+                <tr>
+                    <td>Google Translate</td>
+                    <td>Language translation</td>
+                </tr>
+
+                <tr>
+                    <td>Canva AI</td>
+                    <td>Design and creativity</td>
+                </tr>
+
+            </table>
+        </section>
+
+        <section>
+            <h2>AI Ethics Principles</h2>
+
+            <ul>
+                <li>Fairness</li>
+                <li>Transparency</li>
+                <li>Privacy</li>
+                <li>Accountability</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Quote</h2>
+
+            <p>
+                "AI should benefit humanity and be developed responsibly."
+            </p>
+        </section>
+
+    </main>
+<section>
+    <h2>Useful Resources</h2>
+
+    <p>
+        Here are some websites to learn more about AI and ethics:
+    </p>
+
+    <ul>
+        <li>
+            <a href="https://openai.com" target="_blank">
+                OpenAI
+            </a>
+        </li>
+
+        <li>
+            <a href="https://www.nasa.gov" target="_blank">
+                NASA
+            </a>
+        </li>
+
+        <li>
+            <a href="https://www.unesco.org" target="_blank">
+                UNESCO
+            </a>
+        </li>
+    </ul>
+</section>
+<section>
+    <h2>About the Author</h2>
+
+    <p>
+        Hello! My name is Maram.
+        I am a student from Algeria who is interested in
+        Artificial Intelligence, AI Ethics, and future technologies.
+    </p>
+</section>
+<section>
+    <h2>AI Fact of the Day</h2>
+
+    <p>
+        Artificial Intelligence can help doctors detect diseases
+        faster and improve patient care.
+    </p>
+</section>
+<section>
+    <h2>Contact</h2>
+
+    <p>
+        Thank you for visiting my website!
+    </p>
+
+    <p>
+        Feel free to explore the world of Artificial Intelligence and responsible technology.
+    </p>
+</section>
+
+<section>
+    <h2>My Favorite AI Fields</h2>
+
+    <ul>
+        <li>AI Ethics</li>
+        <li>Healthcare AI</li>
+        <li>Space Technologies</li>
+        <li>Future Innovations</li>
+    </ul>
+</section>
+<section>
+    <h2>AI in Daily Life</h2>
+
+    <p>
+        Artificial Intelligence is already part of our daily lives.
+        We use AI in smartphones, maps, recommendation systems,
+        and voice assistants.
+    </p>
+
+</section>
+<section>
+    <h2>Future Careers in AI</h2>
+
+    <ul>
+        <li>AI Engineer</li>
+        <li>Data Scientist</li>
+        <li>Machine Learning Engineer</li>
+        <li>AI Ethics Researcher</li>
+    </ul>
+
+</section>
+<section>
+    <h2>Fun Facts About AI</h2>
+
+    <ul>
+        <li>AI can recognize speech and images.</li>
+        <li>AI helps scientists explore space.</li>
+        <li>AI is used in video games.</li>
+        <li>AI can assist doctors in healthcare.</li>
+    </ul>
+
+</section>
+<section>
+    <h2>AI Quiz</h2>
+
+    <p>Is AI Ethics important?</p>
+
+    <button id="quizBtn">
+        Yes
+    </button>
+
+    <p id="quizResult"></p>
+
+</section>
+<a href="https://openai.com" target="_blank" class="button">
+    Learn More About AI
+</a>
+<button id="topBtn">↑ Back to Top</button>
+<footer>
+
+    <p>
+        Created with ❤️ by <strong>@Maram</strong><br>
+        Hack Club Stardance Project<br>
+        Algeria 🇩🇿<br>
+        2026
+    </p>
+
+</footer>
+<script src="script.js"></script>
+</body>
+
+</html>
